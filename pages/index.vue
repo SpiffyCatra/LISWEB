@@ -8,12 +8,12 @@
 back the clock, would you do it?" The game gives you the power to go back into time, often allowing you to retract a decision or even
 undo an action. You play as Max Caulfield as every decision you make or do not make effect the people around you. The game makes it
 that in most cases there is no right or wrong decision but instead, a cause and effect set of instances. 
-January 30th, 2015 it has become a little dated, still holding a charm of slang and aesthetic used in that year.</p>
+It was released on January 30th, 2015 and since then it has become a little dated, still holding a charm of slang and aesthetic used in that year.</p>
 
 
 <h2> Max Caulfield</h2> 
 <v-card> 
-<v-card-text> 
+<v-card-text class="white--text"> 
 Max Caulfield is a young adult who studies and does photography at Blackwell academy. 
 
 </v-card-text>
@@ -21,17 +21,20 @@ Max Caulfield is a young adult who studies and does photography at Blackwell aca
  
 
  <h3> But who is Max Caulfeild?</h3>
+
+
  <v-card>
- <v-card-text>
  
- Max is the main character who is controlled by the player and because of this a lot of people do not seem to think that Max still has her
+ <v-card-text class="white--text">
+ 
+ <p style="color:'white'">Max is the main character who is controlled by the player and because of this a lot of people do not seem to think that Max still has her
 own personality. For the most part, she is not a party gal and she does have a bit of the "not like other girls" personality which could br
 credited to the time it was made. Regardless, the decisions you can make with her in the game can change how she appears. For instance,
 the first big decision required is whether or not you tell on Nathan having a gun to the principal, it would be considered bold to tell him
-about the gun because of Nathans status.
+about the gun because of Nathans status. </p>
  
  </v-card-text>
- 
+
  </v-card>
 
 
